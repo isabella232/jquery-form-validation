@@ -26,6 +26,23 @@ Then use the submitForm funciton for whatever you'd like to happen after the for
 In order for the error messages to work for each of the supported languages add a lang attribute to the HTML tag. (English(en), German(de), Spanish(es))
     
     <html lang="en">
+    
+For each of the form fields you'd like to validate use the attribute "data-validate" and contain the field and label in a div with the class "field-item".
+
+Examples:
+
+    <div class="field-item">
+        <label for="name">Name</label>
+        <input type="text" id="name" data-validate="required">
+    </div>
+     <div class="field-item">
+        <label for="email">Email</label>
+        <input type="email" id="email" data-validate="required, email">
+    </div>
+    
+## Validation options
+
+required, name, email, zipcode, postalcode, telephone, password, url, date, year, number, alphabet, alphanumeric, ipaddress and hexvalue
 
 ## Contributing
 
