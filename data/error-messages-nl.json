@@ -1,0 +1,18 @@
+{
+   "alphabet" : "Alleen alfabetische tekens.",
+   "alphanumeric" : "Alleen alfanumerieke tekens.",
+   "date" : "Geef een geldige datum op.",
+   "email" : "Geef een geldig e-mailadres op.",
+   "hexvalue" : "Geef een geldige HEX-waarde op.",
+   "ipaddress" : "Geef een geldig IP-adres op.",
+   "name" : "Geef een geldige naam op.",
+   "number" : "Alleen cijfers.",
+   "password_length" : "Je wachtwoord moet uit tenminste 6 tekens bestaan.",
+   "password" : "Geef een geldig wachtwoord op.",
+   "postal" : "Geef een geldige postcode op.",
+   "required" : "Dit is een verplicht veld.",
+   "telephone" : "Geef een geldig telefoonnummer op.",
+   "url" : "Geef een geldige URL op.",
+   "year" : "Geef een geldig jaar op.",
+   "zipcode" : "Geef een geldige postcode op."
+}

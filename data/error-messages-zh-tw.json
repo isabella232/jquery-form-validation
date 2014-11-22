@@ -1,0 +1,18 @@
+{
+   "alphabet" : "僅限字母文字.",
+   "alphanumeric" : "僅限字母文字與數字.",
+   "date" : "需輸入有效的日期.",
+   "email" : "需輸入有效的電郵地址.",
+   "hexvalue" : "需輸入有效的 HEX 數值.",
+   "ipaddress" : "需輸入有效的 IP 地址.",
+   "name" : "需輸入有效的姓名.",
+   "number" : "僅限數字.",
+   "password_length" : "密碼至少要有6個字元。",
+   "password" : "需輸入有效的密碼.",
+   "postal" : "需輸入有效的郵遞區號.",
+   "required" : "此為必要欄位.",
+   "telephone" : "需輸入有效的電話號碼.",
+   "url" : "需輸入有效的 URL.",
+   "year" : "需輸入有效的年份.",
+   "zipcode" : "需輸入有效的郵遞區號."
+}

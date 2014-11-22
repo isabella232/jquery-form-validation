@@ -1,0 +1,18 @@
+{
+   "alphabet" : "Lettres uniquement.",
+   "alphanumeric" : "Caractères alphanumériques uniquement.",
+   "date" : "Une date valide est obligatoire.",
+   "email" : "Une adresse e-mail valide est obligatoire.",
+   "hexvalue" : "Une valeur HEX valide est obligatoire.",
+   "ipaddress" : "Une adresse IP valide est obligatoire.",
+   "name" : "Un nom valide est obligatoire.",
+   "number" : "Chiffres uniquement.",
+   "password_length" : "Le mot de passe doit être composé d'au moins 6 caractères.",
+   "password" : "Un mot de passe valide est obligatoire.",
+   "postal" : "Un code postal valide est obligatoire.",
+   "required" : "Champ obligatoire.",
+   "telephone" : "Un numéro de téléphone valide est obligatoire.",
+   "url" : "Une URL valide est obligatoire.",
+   "year" : "Une année valide est obligatoire.",
+   "zipcode" : "Un code postal valide est obligatoire."
+}

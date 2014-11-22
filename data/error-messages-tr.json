@@ -1,0 +1,18 @@
+{
+   "alphabet" : "Yalnızca harf.",
+   "alphanumeric" : "Yalnızca alfasayısal karakterler.",
+   "date" : "Geçerli bir tarih gereklidir.",
+   "email" : "Geçerli e-posta zorunlu.",
+   "hexvalue" : "Geçerli bir HEX değeri gereklidir.",
+   "ipaddress" : "Geçerli bir IP adresi gereklidir.",
+   "name" : "Geçerli bir ad gereklidir.",
+   "number" : "Yalnızca sayı.",
+   "password_length" : "Parola en az 6 karakter içermelidir.",
+   "password" : "Geçerli bir parola gereklidir.",
+   "postal" : "Geçerli bir posta kodu gereklidir.",
+   "required" : "Bu alan zorunludur.",
+   "telephone" : "Geçerli bir telefon numarası gereklidir.",
+   "url" : "Geçerli bir URL gereklidir.",
+   "year" : "Geçerli bir yıl gereklidir.",
+   "zipcode" : "Geçerli bir posta kodu gereklidir."
+}

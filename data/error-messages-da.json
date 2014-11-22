@@ -1,0 +1,18 @@
+{
+   "alphabet" : "Kun bogstaver",
+   "alphanumeric" : "Kun alfanumeriske tegn",
+   "date" : "En gyldig dato kræves",
+   "email" : "En gyldig e-mailadresse kræves",
+   "hexvalue" : "En gyldig HEX-værdi kræves",
+   "ipaddress" : "En gyldig IP-adresse kræves",
+   "name" : "Et gyldigt navn kræves",
+   "number" : "Kun tal",
+   "password_length" : "Adgangskoden skal indeholde mindst 6 tegn.",
+   "password" : "En gyldig adgangskode kræves",
+   "postal" : "Et gyldigt postnummer kræves",
+   "required" : "Dette felt skal udfyldes",
+   "telephone" : "Et gyldigt telefonnummer kræves",
+   "url" : "En gyldig webadresse kræves",
+   "year" : "Et gyldigt årstal kræves",
+   "zipcode" : "Et gyldigt postnummer kræves"
+}

@@ -1,0 +1,18 @@
+{
+   "alphabet" : "Chỉ bao gồm các ký tự bảng chữ cái.",
+   "alphanumeric" : "Chỉ bao gồm các ký tự chữ và số.",
+   "date" : "Yêu cầu có một ngày hợp lệ.",
+   "email" : "Yêu cầu có một địa chỉ email hợp lệ.",
+   "hexvalue" : "Yêu cầu có một giá trị HEX hợp lệ.",
+   "ipaddress" : "Yêu cầu có một địa chỉ IP hợp lệ.",
+   "name" : "Yêu cầu có một tên hợp lệ.",
+   "number" : "Chỉ bao gồm các số.",
+   "password_length" : "Mật khẩu cần chứa ít nhất 6 ký tự.",
+   "password" : "Yêu cầu có một mật khẩu hợp lệ.",
+   "postal" : "Yêu cầu có một mã bưu điện hợp lệ.",
+   "required" : "Trường này là bắt buộc.",
+   "telephone" : "Yêu cầu có một số điện thoại hợp lệ.",
+   "url" : "Yêu cầu có một URL hợp lệ.",
+   "year" : "Yêu cầu có một năm hợp lệ.",
+   "zipcode" : "Yêu cầu có một mã vùng hợp lệ."
+}

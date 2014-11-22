@@ -1,0 +1,18 @@
+{
+   "alphabet" : "Endast bokstäver.",
+   "alphanumeric" : "Endast alfanumeriska tecken.",
+   "date" : "Ett giltigt datum krävs.",
+   "email" : "En giltig mejladress krävs.",
+   "hexvalue" : "Ett giltigt HEX-värde krävs.",
+   "ipaddress" : "En giltig IP-adress krävs.",
+   "name" : "Ett giltigt namn krävs.",
+   "number" : "Endast siffror.",
+   "password_length" : "Lösenord måste innehålla minst 6 tecken.",
+   "password" : "Ett giltigt lösenord krävs.",
+   "postal" : "Ett giltigt postnummer krävs.",
+   "required" : "Obligatoriskt fält.",
+   "telephone" : "Ett giltigt telefonnummer krävs.",
+   "url" : "En giltig URL-adress krävs.",
+   "year" : "Ett giltigt år krävs.",
+   "zipcode" : "Ett giltigt postnummer krävs."
+}

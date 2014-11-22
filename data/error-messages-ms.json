@@ -1,0 +1,18 @@
+{
+   "alphabet" : "Aksara abjad sahaja.",
+   "alphanumeric" : "Aksara abjad angka sahaja.",
+   "date" : "Tarikh yang sah diperlukan.",
+   "email" : "Alamat e-mel yang sah diperlukan.",
+   "hexvalue" : "Nilai HEX yang sah diperlukan.",
+   "ipaddress" : "Alamat IP yang sah diperlukan.",
+   "name" : "Nama yang sah diperlukan.",
+   "number" : "Angka sahaja.",
+   "password_length" : "Kata laluan perlu mengandungi sekurang-kurangnya 6 aksara.",
+   "password" : "Kata laluan yang sah diperlukan.",
+   "postal" : "Poskod yang sah diperlukan.",
+   "required" : "Medan ini diperlukan.",
+   "telephone" : "Nombor telefon yang sah diperlukan.",
+   "url" : "URL yang sah diperlukan.",
+   "year" : "Tahun yang sah diperlukan.",
+   "zipcode" : "Kod zip yang sah diperlukan."
+}

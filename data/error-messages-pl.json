@@ -1,0 +1,18 @@
+{
+   "alphabet" : "Tylko znaki alfabetu.",
+   "alphanumeric" : "Tylko znaki alfanumeryczne.",
+   "date" : "Wymagana jest poprawna data.",
+   "email" : "Wymagany jest poprawny adres e-mail.",
+   "hexvalue" : "Wymagana jest poprawna wartość szesnastkowa.",
+   "ipaddress" : "Wymagany jest poprawny adres IP.",
+   "name" : "Wymagana jest poprawne imię i nazwisko.",
+   "number" : "Tylko cyfry.",
+   "password_length" : "Hasło musi składać się z przynajmniej 6 znaków.",
+   "password" : "Wymagane jest poprawne hasło.",
+   "postal" : "Wymagany jest poprawny kod pocztowy.",
+   "required" : "To pole jest wymagane.",
+   "telephone" : "Wymagany jest poprawny numer telefonu.",
+   "url" : "Wymagany jest poprawny adres URL.",
+   "year" : "Wymagany jest poprawny rok.",
+   "zipcode" : "Wymagany jest poprawny kod ZIP."
+}

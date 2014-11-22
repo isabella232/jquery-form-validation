@@ -1,0 +1,18 @@
+{
+   "alphabet" : "Vain aakkosellisia merkkejä.",
+   "alphanumeric" : "Vain aakkosnumeerisia merkkejä.",
+   "date" : "Vaaditaan kelvollinen päivämäärä.",
+   "email" : "Vaaditaan kelvollinen sähköpostiosoite.",
+   "hexvalue" : "Vaaditaan kelvollinen HEX-arvo.",
+   "ipaddress" : "Vaaditaan kelvollinen IP-osoite.",
+   "name" : "Vaaditaan kelvollinen nimi.",
+   "number" : "Vain numeroita",
+   "password_length" : "Salasanassa on oltava vähintään kuusi merkkiä.",
+   "password" : "Vaaditaan kelvollinen salasana.",
+   "postal" : "Vaaditaan kelvollinen postinumero.",
+   "required" : "Tämä kenttä on pakollinen.",
+   "telephone" : "Vaaditaan kelvollinen puhelinnumero.",
+   "url" : "Vaaditaan kelvollinen URL-osoite.",
+   "year" : "Vaaditaan kelvollinen vuosi.",
+   "zipcode" : "Vaaditaan kelvollinen postinumero."
+}

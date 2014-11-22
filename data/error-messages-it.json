@@ -1,0 +1,18 @@
+{
+   "alphabet" : "Solo caratteri alfabetici.",
+   "alphanumeric" : "Solo caratteri alfanumerici.",
+   "date" : "È necessaria una data valida.",
+   "email" : "È necessario un indirizzo email valido.",
+   "hexvalue" : "È necessario un valore HEX valido.",
+   "ipaddress" : "È necessario un IP valido.",
+   "name" : "È necessario un nome valido.",
+   "number" : "Solo numeri.",
+   "password_length" : "La password deve contenere almeno 6 caratteri.",
+   "password" : "È necessaria una password valida.",
+   "postal" : "è necessario un codice postale valido.",
+   "required" : "Questo campo è obbligatorio.",
+   "telephone" : "È necessario un numero di telefono valido.",
+   "url" : "È necessario un URL valido.",
+   "year" : "È necessario un anno valido.",
+   "zipcode" : "È necessario un C.A.P. valido."
+}

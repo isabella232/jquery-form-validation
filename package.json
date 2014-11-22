@@ -1,0 +1,14 @@
+{
+  "name": "jQuery Form Validation",
+  "version": "1.0.0",
+  "description": "A jQuery form validation plugin that makes it easy to add validation to existing forms. Error messages are fully customizable and translated in various languages. This plugin also dyncamically adds WAI-ARIA roles to help make your form more accessibile.",
+  "repository": "https://github.com/evernote/jquery-form-validation",
+  "author": "Ryan Burgess",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-newer": "~0.6.1",
+    "grunt-sass": "~0.11.0"
+  }
+}

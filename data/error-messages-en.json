@@ -1,0 +1,18 @@
+{
+    "required":"This field is required.",
+    "email":"A valid email address is required.",
+    "name":"A valid name is required.",
+    "password":"A valid password is required.",
+    "zipcode":"A valid zip code is required.",
+    "postal":"A valid postal code is required.",
+    "telephone":"A valid phone number is required.",
+    "url":"A valid URL is required.",
+    "date":"A valid date is required.",
+    "year":"A valid year is required.",
+    "number":"Numbers only.",
+    "alphabet":"Alphabet characters only.",
+    "alphanumeric":"Alphanumeric characters only.",
+    "ipaddress":"A valid IP address is required.",
+    "hexvalue":"A valid HEX value is required.",
+    "password_length":"Password needs to contain at least 6 characters."
+}

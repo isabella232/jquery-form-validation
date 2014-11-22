@@ -1,0 +1,18 @@
+{
+   "alphabet" : "Karakter alfabet saja.",
+   "alphanumeric" : "Karakter alfanumerik saja.",
+   "date" : "Diperlukan tanggal yang valid.",
+   "email" : "Diperlukan alamat email yang valid.",
+   "hexvalue" : "Nilai HEX valid diperlukan.",
+   "ipaddress" : "Diperlukan alamat IP yang valid.",
+   "name" : "Diperlukan nama yang valid.",
+   "number" : "Angka saja.",
+   "password_length" : "Kata sandi harus berisi minimal 6 karakter.",
+   "password" : "Diperlukan kata sandi yang valid.",
+   "postal" : "Diperlukan kode pos yang valid.",
+   "required" : "Isian ini diperlukan.",
+   "telephone" : "Diperlukan nomor telepon yang valid.",
+   "url" : "Diperlukan URL yang valid.",
+   "year" : "Diperlukan tahun yang valid.",
+   "zipcode" : "Diperlukan kode pos yang valid."
+}
