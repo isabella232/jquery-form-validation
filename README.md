@@ -1,7 +1,7 @@
 jQuery Form Validation Script
 ======================
 
-A jQuery form validation plugin that makes it easy to add validation to existing forms. Error messages are fully customizable and translated in various languages. This plugin also dyncamically adds [WAI-ARIA](http://www.w3.org/WAI/intro/aria) roles to help make your form more accessibile.
+A jQuery form validation plugin that makes it easy to add validation to existing forms. Error messages are fully customizable and translated in 22 languages. This plugin also dyncamically adds [WAI-ARIA](http://www.w3.org/WAI/intro/aria) roles to help make your form more accessibile.
 
 ### Supported Languages
 English, French, Spanish, German, Russian, Korean, Simplified Chinese, Traditional Chinese, Japanese, Arabic, Danish, Finnish, Indonesian, Italian, Malay, Norwegian, Portuguese, Swedish, Thai, Turkish, and Vietnamese.
