@@ -1,0 +1,29 @@
+form{
+  @include rem("margin-top", 50);
+  @include margin-auto();
+  width:40%;
+  color:$grey;
+
+  legend{
+    font-size:20px;
+    @include rem("font-size", 20);
+  }
+
+  fieldset{
+    @include rem("margin-bottom", 40);
+  }
+
+  label{
+    @include rem("font-size", 12);
+  }
+
+  textarea,
+  select,
+  input {
+    width:100%;
+  }
+
+  button{
+    float:right;
+  }
+}

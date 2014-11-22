@@ -1,0 +1,45 @@
+.active-error {
+  textarea,
+  input,
+  select {
+    border:1px solid $warningRed;
+  }
+}
+.active-warning {
+  textarea,
+  input,
+  select {
+    border:1px solid #d77b03;
+  }
+}
+
+.error-message,
+.warning-message {
+
+  width:100%;
+  display:block;
+  
+  font-family:$helvetica;
+  @include box-sizing(border-box);
+
+  //Desktop
+  @include rem("font-size",14);
+  @include rem("padding",6,10);
+  @include rem("top",-5);
+  position:relative;
+  //End desktop
+
+}
+.error-message{
+  background:$warningRed;
+  color:white;
+}
+.warning-message{
+  background:#d77b03;
+  color:white;
+}
+
+.error-message,
+.warning-message {
+  display:none;
+}

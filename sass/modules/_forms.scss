@@ -1,0 +1,74 @@
+.field-item {
+  position:relative;
+  width:100%;
+  @include rem("margin-top",30);
+  @include rem("min-height",70);
+
+  &:first-child {
+    margin-top:0;
+  }
+
+}
+
+label {
+  color:$grey;
+  @include rem("margin-bottom",10);
+  @include rem("font-size",20);
+  display:block;
+}
+
+button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+textarea {
+  resize:none;
+}
+
+textarea,
+select,
+input {
+  border:1px solid $lightGrey;
+  border-radius:0;
+  background:white;
+  color:$lightGrey;
+  @include box-sizing(border-box);
+
+  //Desktop styles
+  @include rem("font-size",16);
+  @include rem("line-height",24);
+  @include rem("padding",5);
+  //End desktop styles
+
+  &:focus {
+    border:1px solid $green;
+  }
+
+}
+
+//button styles
+button,
+.button,
+input[type="submit"] {
+  @include roundedCorners(4);
+  cursor:pointer;
+  text-decoration:none;
+  text-align:center;
+  @include rem("font-size",20);
+  @include rem("line-height",20);
+  @include rem("padding",10, 20);
+  background:$green;
+  color:white;
+  border:1px solid darken($green,2%);
+
+  &:hover,
+  &:focus {
+    border:1px solid darken($green,10%);
+    background:darken($green, 10%);
+  }
+}
+
+
+
