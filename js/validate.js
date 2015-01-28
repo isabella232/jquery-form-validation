@@ -51,7 +51,6 @@
   // Error messages after validation rules
   function errorMessage(type) {
     errorType = errorMessages[type];
-    console.log(errorType)
     return errorType;
   }
 

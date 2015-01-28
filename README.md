@@ -46,6 +46,11 @@ Examples:
 
 required, name, email, zipcode, postalcode, telephone, password, url, date, year, number, alphabet, alphanumeric, ipaddress and hexvalue
 
+
+## Release History
+* 1.0.1: Add JSHint / clean up JS.
+* 1.0.0: Initial release.
+
 ## Contributing
 
 1. Fork it

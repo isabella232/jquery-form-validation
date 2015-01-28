@@ -18,6 +18,23 @@ module.exports = function(grunt) {
         ],
       }
     },
+    jshint: {
+      all: ['js/**/*.js'],
+      options: {
+        reporter: require('jshint-stylish'),
+        curly: true,
+        eqeqeq: true,
+        eqnull: false,
+        browser: true,
+        indent: 2,
+        quotmark: 'single',
+        unused: false,
+        ignores: ['node_modules/', 'js/validate.min.js'],
+        globals: {
+          jQuery: true
+        },
+      },
+    },
     uglify: {
       dist: {
         files:{
@@ -45,6 +62,7 @@ module.exports = function(grunt) {
     }
   });
   grunt.loadNpmTasks('grunt-sass');
+  grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-watch');
   grunt.loadNpmTasks('grunt-contrib-uglify');
   grunt.loadNpmTasks('grunt-newer');
